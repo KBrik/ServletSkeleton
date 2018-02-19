@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="api">
+    <CLASSES>
+      <root url="file://C:/jaxrs-ri/api" />
+      <root url="file://C:/jaxrs-ri/ext" />
+      <root url="file://C:/jaxrs-ri/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/jaxrs-ri/ext" />
+    </SOURCES>
+    <jarDirectory url="file://C:/jaxrs-ri/api" recursive="false" />
+    <jarDirectory url="file://C:/jaxrs-ri/ext" recursive="false" />
+    <jarDirectory url="file://C:/jaxrs-ri/lib" recursive="false" />
+    <jarDirectory url="file://C:/jaxrs-ri/ext" recursive="false" type="SOURCES" />
+  </library>
+</component>
